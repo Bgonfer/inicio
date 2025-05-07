@@ -1,1 +1,2 @@
-Isto é un texto de proba
+Isto é un texto de proba,
+isto é outra línea
